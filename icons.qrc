@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon">icon.ico</file>
+        <file alias="off">off.ico</file>
+        <file alias="on">on.ico</file>
+    </qresource>
+</RCC>
